@@ -248,7 +248,7 @@ function draw() {
   //testo che invita ad aprire la pagina di dettaglio
   fill("#aab3c8");
   textSize(13);
-  text("Click on a pitch to explore the final.", 60, 700);
+  text("Click on a pitch to explore the final", 60, 700);
 
 
   //il logo lo posiziono al centro del canvas

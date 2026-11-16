@@ -95,10 +95,10 @@ function draw() {
 
     fill("#c5cbda");
     textSize(12);
-    text("90 MIN = Match ended in regular time", 60, 470);
-    text("EXTRA TIME = Match was won during extra time", 60, 488);
-    text("PENALTIES = Match was won on a penalty shoot-out", 60, 506);
-    text("REPLAY = Match was won after a replay", 60, 524);
+    text("90 MIN = match ended in regular time", 60, 470);
+    text("EXTRA TIME = match was won during extra time", 60, 488);
+    text("PENALTIES = match was won on a penalty shoot-out", 60, 506);
+    text("REPLAY = match was won after a replay", 60, 524);
 
     //testo legenda grafico degli spettatori
     fill(255);
@@ -192,7 +192,7 @@ function draw() {
     fill(255);
     textAlign(CENTER, CENTER);
     textSize(14);
-    text(conclusione, campoX + 82.5, 698); //rivedi
+    text(conclusione, campoX + 82.5, 698); 
 
 
     //stadio
